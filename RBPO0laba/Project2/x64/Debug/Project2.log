@@ -1,0 +1,14 @@
+﻿  CompareStrings.c
+  CreatePersons.c
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(19,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(21,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(23,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(39,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(43,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\CreatePersons.c(47,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\Project2\main.c(12,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PrintPersons.c
+  Sort.c
+  Создание кода...
+  Project2.vcxproj -> C:\Users\Arseny\Desktop\Учеба 2021\РБПО\RBPO0laba\x64\Debug\Project2.exe
